@@ -1,0 +1,19 @@
+# Obsidian 配置文件
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# 临时文件
+.DS_Store
+Thumbs.db
+*.tmp
+*.temp
+
+# 备份文件
+*.bak
+*~
+
+# 系统文件
+desktop.ini
+.Spotlight-V100
+.Trashes
